@@ -76,7 +76,7 @@ export function About() {
                 <div className="h-px flex-1 bg-green-500/30 ml-4" />
               </div>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                {['Problem Solving', 'Clean Code', 'Team Collaboration', 'Continuous Learning'].map((item, index) => (
+                {['Problem Solving', 'Clean Code', 'Team Collaboration', 'Continuous Learning'].map((item) => (
                   <div key={item} className="text-center p-4 border border-green-500/20 rounded bg-black/30 hover:bg-black/50 hover:border-green-500/40 transition-all duration-300 group cursor-pointer">
                     <div className="text-2xl mb-2 group-hover:scale-110 transition-transform">✓</div>
                     <span className="text-green-400/80 font-mono text-sm group-hover:text-green-400 transition-colors">{item}</span>
