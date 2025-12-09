@@ -21,7 +21,7 @@ const projects = [
   },
   {
     id: 3,
-    title: 'Himayurgyan,
+    title: 'Himayurgyan',
     description: 'Interactive dashboard for visualizing business metrics with real-time data processing and customizable widgets.',
     tech: ['React', 'TypeScript', 'D3.js', 'Redis'],
     status: 'Production',
