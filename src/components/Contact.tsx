@@ -56,7 +56,7 @@ export function Contact() {
                     </div>
                     <div className="flex-1">
                       <div className="text-green-400 mb-1">Email</div>
-                      <div className="text-green-400/60 text-sm">ajeshguleria500@gmail.com</div>
+                      <div className="text-green-400/60 text-sm break-all">ajeshguleria500@gmail.com</div>
                     </div>
                     <ExternalLink className="w-4 h-4 text-green-500/50 group-hover:text-green-500 transition-colors" />
                   </a>
@@ -72,7 +72,7 @@ export function Contact() {
                     </div>
                     <div className="flex-1">
                       <div className="text-green-400 mb-1">GitHub</div>
-                      <div className="text-green-400/60 text-sm">https://github.com/AjeshGuleria</div>
+                      <div className="text-green-400/60 text-sm break-all">https://github.com/AjeshGuleria</div>
                     </div>
                     <ExternalLink className="w-4 h-4 text-green-500/50 group-hover:text-green-500 transition-colors" />
                   </a>
@@ -88,7 +88,7 @@ export function Contact() {
                     </div>
                     <div className="flex-1">
                       <div className="text-green-400 mb-1">LinkedIn</div>
-                      <div className="text-green-400/60 text-sm">www.linkedin.com/in/ajesh-guleria</div>
+                      <div className="text-green-400/60 text-sm break-all">www.linkedin.com/in/ajesh-guleria</div>
                     </div>
                     <ExternalLink className="w-4 h-4 text-green-500/50 group-hover:text-green-500 transition-colors" />
                   </a>
