@@ -126,7 +126,7 @@ export function Projects() {
               &gt; More projects available on GitHub. Check back for updates...
             </div>
             <div className="mt-4 pt-4 border-t border-green-500/20">
-              <a href="https://github.com" className="inline-flex items-center gap-2 text-green-400 hover:text-green-300 font-mono text-sm transition-colors group">
+              <a href="https://github.com/AjeshGuleria" className="inline-flex items-center gap-2 text-green-400 hover:text-green-300 font-mono text-sm transition-colors group">
                 <Github className="w-4 h-4 group-hover:scale-110 transition-transform" />
                 <span>View all repositories</span>
                 <ExternalLink className="w-3 h-3" />
