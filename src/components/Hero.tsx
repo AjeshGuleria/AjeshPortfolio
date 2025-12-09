@@ -95,10 +95,10 @@ export function Hero() {
                     <div className="text-3xl font-mono text-green-400">1+</div>
                     <div className="text-xs font-mono text-green-400/60">Years Exp</div>
                   </div>
-                  <div className="item-center">
-                    <div className="text-3xl font-mono text-green-400"><Hammer/></div>
-                    <div className="text-xs font-mono text-green-400/60">Projects</div>
-                  </div>
+                  <div className="flex flex-col items-center">
+  <div className="text-3xl font-mono text-green-400"><Hammer /></div>
+  <div className="text-xs font-mono text-green-400/60">Projects</div>
+</div>
                   <div className="text-center">
                     <div className="text-3xl font-mono text-green-400">100%</div>
                     <div className="text-xs font-mono text-green-400/60">Dedication</div>
