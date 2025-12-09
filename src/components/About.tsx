@@ -33,7 +33,7 @@ export function About() {
               <div className="mt-6 pt-6 border-t border-green-500/20">
                 <div className="flex items-center gap-2 text-green-400/70 font-mono text-sm">
                   <span className="text-green-500">•</span>
-                  <span>Problem solver at heart</span>
+                  <span>Likes to debug</span>
                 </div>
                 <div className="flex items-center gap-2 text-green-400/70 font-mono text-sm mt-2">
                   <span className="text-green-500">•</span>
