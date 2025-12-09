@@ -6,7 +6,7 @@ const projects = [
     title: 'E-Commerce Platform',
     description: 'Full-featured e-commerce platform with payment integration, admin dashboard, and real-time inventory management.',
     tech: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-    status: 'Production',
+    status: 'Development',
     github: '#',
     live: '#'
   },
@@ -21,39 +21,12 @@ const projects = [
   },
   {
     id: 3,
-    title: 'AI Content Generator',
-    description: 'AI-powered content generation tool using advanced language models for creating marketing copy and blog posts.',
-    tech: ['React', 'Python', 'FastAPI', 'OpenAI'],
-    status: 'Beta',
-    github: '#',
-    live: '#'
-  },
-  {
-    id: 4,
-    title: 'Real-time Analytics Dashboard',
+    title: 'Himayurgyan,
     description: 'Interactive dashboard for visualizing business metrics with real-time data processing and customizable widgets.',
     tech: ['React', 'TypeScript', 'D3.js', 'Redis'],
     status: 'Production',
     github: '#',
-    live: '#'
-  },
-  {
-    id: 5,
-    title: 'Social Media API',
-    description: 'RESTful API for social media platform with authentication, post management, and notification system.',
-    tech: ['Express', 'MongoDB', 'JWT', 'Redis'],
-    status: 'Production',
-    github: '#',
-    live: '#'
-  },
-  {
-    id: 6,
-    title: 'Portfolio Builder',
-    description: 'No-code portfolio builder with drag-and-drop interface, custom themes, and one-click deployment.',
-    tech: ['React', 'Node.js', 'AWS', 'Docker'],
-    status: 'Development',
-    github: '#',
-    live: '#'
+    live: 'https://himayurgyan.com/'
   }
 ];
 
