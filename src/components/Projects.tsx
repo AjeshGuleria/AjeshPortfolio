@@ -12,12 +12,12 @@ const projects = [
   },
   {
     id: 2,
-    title: 'Task Management System',
-    description: 'Collaborative task management app with real-time updates, team collaboration features, and analytics dashboard.',
-    tech: ['Next.js', 'PostgreSQL', 'Prisma', 'WebSocket'],
+    title: 'Matremonial Site',
+    description: 'A modern, fully-responsive matrimonial web platform designed to connect users through secure authentication, profile matching, and an intuitive UI. Built with optimized backend logic, dynamic Blade templates, and mobile-friendly design to ensure a smooth and elegant user experience.',
+    tech: ['laravel', 'PostgreSQL', 'blade', 'vanila.css'],
     status: 'Production',
     github: '#',
-    live: '#'
+    live: 'http://truelovebridges.com/'
   },
   {
     id: 3,
