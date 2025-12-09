@@ -96,7 +96,7 @@ export function Hero() {
                     <div className="text-xs font-mono text-green-400/60">Years Exp</div>
                   </div>
                   <div className="text-center">
-                    <div className="text-3xl font-mono text-green-400">Explore</div>
+                    <div className="text-3xl font-mono text-green-400">Neet</div>
                     <div className="text-xs font-mono text-green-400/60">Projects</div>
                   </div>
                   <div className="text-center">
